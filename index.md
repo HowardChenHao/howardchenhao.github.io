@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://howardchenhao.github.io/haochen.jpg" class="floatpic" width="360" height="480">
+<img src="https://howardchenhao.github.io/haochen_big.jpg" class="floatpic" width="360" height="480">
 
 Here is **Hao Chen (howard, 陈昊)**.
 
