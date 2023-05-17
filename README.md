@@ -1,6 +1,6 @@
 # Introduction
 
-Hello, my name is **Hao Chen (howard, 陈昊)**. Here is my personal website. Welcome !
+Hello, my name is **Hao Chen (English name:howard;Chinese name: 陈昊)**. Here is my personal [website](https://howardchenhao.github.io). Welcome !
 please click the link in  the upper right corner to look
 
 [my CSDN](https://blog.csdn.net/weixin_57028107) account has more than 100+ views. 
