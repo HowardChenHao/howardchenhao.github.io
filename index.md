@@ -18,7 +18,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 
 
-- **Dec 2021：**won the National Second Prize in **Chinese Mathematics Competitions**.
-- **July 2020：**won the National Second Prize in **China Undergraduate Mathematical Contest in Modelling**
+- **Dec 2021：** won the National Second Prize in **Chinese Mathematics Competitions**.
+- **July 2020：** won the National Second Prize in **China Undergraduate Mathematical Contest in Modelling**
 - **Dec 2019：** awarded the **Individual Scholarship** in Shandong Normal University 
 - **Sep 2019：** won the National First Prize in **China National College Student "Innovation, Originality and Entrepreneurship" Challenge** .
