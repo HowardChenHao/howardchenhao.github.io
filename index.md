@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://howardchenhao.github.io/haochen_big.jpg" class="floatpic" width="360" height="520">
+<img src="https://howardchenhao.github.io/haochen_big.jpg" class="floatpic" width="360" height="480">
 
 Hello,here is **Hao Chen**. my English name is **Howard**, and my Chiense name is **陈昊**
 
