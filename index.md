@@ -9,7 +9,7 @@ layout: page
 Hello,here is **Hao Chen**. my English name is **Howard**, and my Chiense name is **陈昊**
 
 I am a postgraduate majoring in **meachine learning** at **xi'an jiaotong University** (China). 
-if you want to know me more , please visit my [CSDN]{https://blog.csdn.net/weixin_57028107}
+if you want to know me more , please visit my [CSDN](https://blog.csdn.net/weixin_57028107)
 
 ## Research Interests
 
