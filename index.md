@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://howardchenhao.github.io/haochen_big.jpg" class="floatpic" width="360" height="480">
 
-Hello,here is **Hao Chen**. my English name is **Howard**, and my Chiense name is **陈昊**
+Hello,here is **Hao Chen**. my English name is **Howard**, my Chiense name is **陈昊**
 
 I am a postgraduate majoring in **meachine learning** at **xi'an jiaotong University** (China). 
 if you want to know me more , please visit my [CSDN](https://blog.csdn.net/weixin_57028107)
